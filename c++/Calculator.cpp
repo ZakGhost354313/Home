@@ -72,6 +72,9 @@ int main1() {
             }
         }
     }
+    //main program/other program
+    
+    
     //equations
     if (input == "0+0") {
         std::cout << "\nAnswer : 0\n";
