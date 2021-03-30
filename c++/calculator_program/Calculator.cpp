@@ -196,6 +196,16 @@ int main1() {
     if (input == "2+8") {
         std::cout << "Answer : " << ERROR;
     }
-    //
+    if (input == "2+9") {
+        std::cout << "Answer : " << ERROR;
+    }
+    //i just realized that i am an idiot
+    std::string answer;
+    using namespace std;
+    if (input == "3+0") {
+        answer = 3+0
+        cout << "Answer : " << answer << endl;
+    }
+    //not done
     std::cout << "\n\n\nEND\n\n\n";
 }
